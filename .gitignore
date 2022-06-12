@@ -1,0 +1,4 @@
+/build/*
+!/build/libcomplex_array_class.so
+/CMakeLists.txt
+/.vscode/*
