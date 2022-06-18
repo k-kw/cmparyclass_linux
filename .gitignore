@@ -1,2 +1,3 @@
 /build/*
 !/build/libcomplex_array_class.so
+/.vscode/*
